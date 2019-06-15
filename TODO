@@ -1,0 +1,22 @@
+Goal Beta Date: 06-01-2019
+
+Critical things to do:
+
+Finish the info_farming python file to gather data on a stock and save it to a hard drive 1 day 1 minute style
+Create a general list of requirements that every stock I look into must have in order to trade
+Create a method to find retail stocks
+Find a way to get reliable level 2 data
+Compile a list of test data
+Modify graphing function to plot for constant X number of cs data
+All of trending
+    Support and Resistance
+    MACD implementation
+    RSI implementation
+    EMA implementation
+
+
+Secondary things to set up:
+
+Android app for real-time trading and strategy
+Calculate the amount of band-width the program uses
+Calculate how much money I can make.
